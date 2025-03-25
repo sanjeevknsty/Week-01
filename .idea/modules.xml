@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/01 - Practice/01 - Practice.iml" filepath="$PROJECT_DIR$/01 - Practice/01 - Practice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/02 - Java Fundamentals/02 - Java Fundamentals.iml" filepath="$PROJECT_DIR$/02 - Java Fundamentals/02 - Java Fundamentals.iml" />
+      <module fileurl="file://$PROJECT_DIR$/03 - Control Flow/03 - Control Flow.iml" filepath="$PROJECT_DIR$/03 - Control Flow/03 - Control Flow.iml" />
+      <module fileurl="file://$PROJECT_DIR$/04 - Arrays/04 - Arrays.iml" filepath="$PROJECT_DIR$/04 - Arrays/04 - Arrays.iml" />
+      <module fileurl="file://$PROJECT_DIR$/05 - Methods/05 - Methods.iml" filepath="$PROJECT_DIR$/05 - Methods/05 - Methods.iml" />
+      <module fileurl="file://$PROJECT_DIR$/06- Strings/06- Strings.iml" filepath="$PROJECT_DIR$/06- Strings/06- Strings.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BuiltIn Function/BuiltIn Function.iml" filepath="$PROJECT_DIR$/BuiltIn Function/BuiltIn Function.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Week 01.iml" filepath="$PROJECT_DIR$/.idea/Week 01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BuiltIn Function/level 1/level 1.iml" filepath="$PROJECT_DIR$/BuiltIn Function/level 1/level 1.iml" />
+    </modules>
+  </component>
+</project>
